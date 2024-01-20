@@ -1,0 +1,9 @@
+<div>
+    <h2><strong>projeto:</strong> </h2>
+    <p><strong>descrição:</strong> </p>
+    <p><strong>tecnologias usadas:</strong> </p>
+    <p><strong>links:</strong> github &#x1F916 <a target="_blank" href=""></a> || site &#x1F449 <a target="_blank" href=""></a></p>
+    <p><strong>sobre:</strong><br>
+    </p>
+    <hr>
+</div>

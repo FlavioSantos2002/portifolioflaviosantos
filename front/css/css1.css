@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+p {
+    color: #555;
+}
+
+div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Adicionando um estilo ao link do ícone na barra de título */
+link[rel="icon"] {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+/* Estilo para o título da guia do navegador */
+title {
+    font-weight: bold;
+    color: #007BFF;
+}
